@@ -1,0 +1,8 @@
+This is an example file
+Let's try to write first string
+And the second one
+And the third
+And two empty strings later
+
+
+End of file here.
